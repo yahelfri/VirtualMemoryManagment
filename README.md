@@ -2,7 +2,7 @@
 
 																		operating systems homework 5 readme file
 										
-authors: 		yahel friedman   203146808
+author: 		yahel friedman   203146808
 
 					
 					
